@@ -1,0 +1,1053 @@
+Active Internet connections (servers and established)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 0.0.0.0:52224           0.0.0.0:*               LISTEN      13192/im360: worker 
+tcp        0      0 0.0.0.0:2080            0.0.0.0:*               LISTEN      4815/cpdavd - accep 
+tcp        0      0 0.0.0.0:993             0.0.0.0:*               LISTEN      13355/dovecot/imap- 
+tcp        0      0 0.0.0.0:10050           0.0.0.0:*               LISTEN      31427/zabbix_agentd 
+tcp        0      0 0.0.0.0:2082            0.0.0.0:*               LISTEN      2387/cpsrvd (SSL) - 
+tcp        0      0 209.172.40.179:2082     43.131.94.145:25771     SYN_RECV    -                   
+tcp        0      0 0.0.0.0:52227           0.0.0.0:*               LISTEN      13192/im360: worker 
+tcp        0      0 0.0.0.0:995             0.0.0.0:*               LISTEN      13354/dovecot/pop3- 
+tcp        0      0 0.0.0.0:2083            0.0.0.0:*               LISTEN      2387/cpsrvd (SSL) - 
+tcp        0      0 0.0.0.0:52228           0.0.0.0:*               LISTEN      13192/im360: worker 
+tcp        0      0 0.0.0.0:52229           0.0.0.0:*               LISTEN      13192/im360: worker 
+tcp        0      0 0.0.0.0:52230           0.0.0.0:*               LISTEN      13192/im360: worker 
+tcp        0      0 0.0.0.0:2086            0.0.0.0:*               LISTEN      2387/cpsrvd (SSL) - 
+tcp        0      0 0.0.0.0:52231           0.0.0.0:*               LISTEN      13192/im360: worker 
+tcp        0      0 0.0.0.0:2087            0.0.0.0:*               LISTEN      2387/cpsrvd (SSL) - 
+tcp        0      0 0.0.0.0:7080            0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 0.0.0.0:52232           0.0.0.0:*               LISTEN      13192/im360: worker 
+tcp        0      0 0.0.0.0:587             0.0.0.0:*               LISTEN      3787/exim           
+tcp        0      0 0.0.0.0:2091            0.0.0.0:*               LISTEN      4815/cpdavd - accep 
+tcp        0      0 0.0.0.0:110             0.0.0.0:*               LISTEN      13354/dovecot/pop3- 
+tcp        0      0 127.0.0.1:783           0.0.0.0:*               LISTEN      623/perl            
+tcp        0      0 0.0.0.0:143             0.0.0.0:*               LISTEN      13355/dovecot/imap- 
+tcp        0      0 0.0.0.0:2095            0.0.0.0:*               LISTEN      2387/cpsrvd (SSL) - 
+tcp        0      0 0.0.0.0:111             0.0.0.0:*               LISTEN      1159/rpcbind        
+tcp        0      0 209.172.40.189:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.162:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.163:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.164:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.187:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.175:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.152:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.143:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.171:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.142:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.153:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.135:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.135:80       162.159.133.234:8999    SYN_RECV    -                   
+tcp        0      0 209.172.40.135:80       162.159.133.234:4047    SYN_RECV    -                   
+tcp        0      0 209.172.40.135:80       162.159.133.234:51269   SYN_RECV    -                   
+tcp        0      0 209.172.40.135:80       162.159.133.234:39270   SYN_RECV    -                   
+tcp        0      0 209.172.40.135:80       162.159.133.234:19197   SYN_RECV    -                   
+tcp        0      0 209.172.40.135:80       162.159.133.234:23040   SYN_RECV    -                   
+tcp        0      0 209.172.40.135:80       162.159.133.234:15948   SYN_RECV    -                   
+tcp        0      0 209.172.40.135:80       162.159.133.234:20567   SYN_RECV    -                   
+tcp        0      0 209.172.40.135:80       162.159.133.234:61462   SYN_RECV    -                   
+tcp        0      0 209.172.40.135:80       162.159.133.234:22457   SYN_RECV    -                   
+tcp        0      0 209.172.40.135:80       162.159.133.234:30575   SYN_RECV    -                   
+tcp        0      0 209.172.40.135:80       162.159.133.234:7137    SYN_RECV    -                   
+tcp        0      0 209.172.40.135:80       162.159.133.234:29991   SYN_RECV    -                   
+tcp        0      0 209.172.40.135:80       162.159.133.234:37084   SYN_RECV    -                   
+tcp        0      0 209.172.40.135:80       162.159.133.234:15666   SYN_RECV    -                   
+tcp        0      0 209.172.40.135:80       162.159.133.234:61866   SYN_RECV    -                   
+tcp        0      0 209.172.40.135:80       162.159.133.234:7721    SYN_RECV    -                   
+tcp        0      0 209.172.40.135:80       162.159.133.234:5539    SYN_RECV    -                   
+tcp        0      0 209.172.40.135:80       162.159.133.234:28837   SYN_RECV    -                   
+tcp        0      0 209.172.40.188:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.180:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.154:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.144:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.132:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.133:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.161:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.186:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.155:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.134:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.145:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.173:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.141:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.151:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.172:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.165:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.174:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.149:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.176:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.159:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.147:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.160:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.168:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.157:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.183:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.136:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.169:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.182:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.148:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.140:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.167:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.158:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.150:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.184:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.156:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.179:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 184.107.41.70:80        0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.146:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.177:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.185:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.138:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.166:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.181:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.139:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.178:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.170:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.137:80       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 127.0.0.1:80            0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 0.0.0.0:2096            0.0.0.0:*               LISTEN      2387/cpsrvd (SSL) - 
+tcp        0      0 0.0.0.0:465             0.0.0.0:*               LISTEN      3787/exim           
+tcp        0      0 127.0.0.1:27217         0.0.0.0:*               LISTEN      3501/mongod         
+tcp        0      0 0.0.0.0:5555            0.0.0.0:*               LISTEN      15926/lfd Cluster S 
+tcp        0      0 0.0.0.0:53              0.0.0.0:*               LISTEN      11248/pdns_server   
+tcp        0      0 0.0.0.0:21              0.0.0.0:*               LISTEN      2373/pure-ftpd (SER 
+tcp        0      0 0.0.0.0:22              0.0.0.0:*               LISTEN      27045/sshd          
+tcp        0      0 0.0.0.0:8887            0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 184.107.41.70:8887      167.248.133.189:60652   SYN_RECV    -                   
+tcp        0      0 0.0.0.0:8888            0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 0.0.0.0:25              0.0.0.0:*               LISTEN      3787/exim           
+tcp        0      0 127.0.0.1:953           0.0.0.0:*               LISTEN      11248/pdns_server   
+tcp        0      0 209.172.40.189:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.162:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.163:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.164:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.187:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.175:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.152:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.143:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.171:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.142:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.153:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.135:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.135:443      162.159.133.234:26616   SYN_RECV    -                   
+tcp        0      0 209.172.40.135:443      162.159.133.234:32838   SYN_RECV    -                   
+tcp        0      0 209.172.40.135:443      162.159.133.234:20047   SYN_RECV    -                   
+tcp        0      0 209.172.40.135:443      162.159.133.234:35911   SYN_RECV    -                   
+tcp        0      0 209.172.40.135:443      162.159.133.234:26157   SYN_RECV    -                   
+tcp        0      0 209.172.40.135:443      162.159.133.234:34441   SYN_RECV    -                   
+tcp        0      0 209.172.40.135:443      162.159.133.234:19621   SYN_RECV    -                   
+tcp        0      0 209.172.40.135:443      162.159.133.234:29396   SYN_RECV    -                   
+tcp        0      0 209.172.40.135:443      162.159.133.234:42738   SYN_RECV    -                   
+tcp        0      0 209.172.40.135:443      162.159.133.234:63876   SYN_RECV    -                   
+tcp        0      0 209.172.40.135:443      162.159.133.234:53420   SYN_RECV    -                   
+tcp        0      0 209.172.40.135:443      162.159.133.234:6855    SYN_RECV    -                   
+tcp        0      0 209.172.40.135:443      162.159.133.234:16000   SYN_RECV    -                   
+tcp        0      0 209.172.40.135:443      162.159.133.234:55053   SYN_RECV    -                   
+tcp        0      0 209.172.40.135:443      162.159.133.234:9720    SYN_RECV    -                   
+tcp        0      0 209.172.40.135:443      162.159.133.234:57679   SYN_RECV    -                   
+tcp        0      0 209.172.40.135:443      162.159.133.234:59489   SYN_RECV    -                   
+tcp        0      0 209.172.40.135:443      162.159.133.234:17472   SYN_RECV    -                   
+tcp        0      0 209.172.40.135:443      162.159.133.234:56522   SYN_RECV    -                   
+tcp        0      0 209.172.40.135:443      162.159.133.234:11334   SYN_RECV    -                   
+tcp        0      0 209.172.40.188:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.180:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.154:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.144:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.132:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.133:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.161:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.186:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.155:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.134:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.145:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.173:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.141:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.151:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.172:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.165:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.174:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.149:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.176:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.159:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.147:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.160:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.168:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.157:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.183:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.136:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.169:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.182:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.148:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.140:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.167:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.158:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.150:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.184:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.156:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.179:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 184.107.41.70:443       0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.146:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.146:443      183.136.225.43:44748    SYN_RECV    -                   
+tcp        0      0 209.172.40.177:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.185:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.138:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.166:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.181:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.139:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.178:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.170:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 209.172.40.137:443      0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 127.0.0.1:443           0.0.0.0:*               LISTEN      19541/litespeed (ls 
+tcp        0      0 0.0.0.0:2077            0.0.0.0:*               LISTEN      4815/cpdavd - accep 
+tcp        0      0 0.0.0.0:2078            0.0.0.0:*               LISTEN      4815/cpdavd - accep 
+tcp        0      0 0.0.0.0:52223           0.0.0.0:*               LISTEN      13192/im360: worker 
+tcp        0      0 0.0.0.0:2079            0.0.0.0:*               LISTEN      4815/cpdavd - accep 
+tcp        0      0 184.107.41.70:443       193.235.141.19:18097    TIME_WAIT   -                   
+tcp        0     39 184.107.41.70:993       142.127.203.214:49860   ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 127.0.0.1:47924         127.0.0.1:27217         TIME_WAIT   -                   
+tcp        0      0 209.172.40.142:993      174.95.211.117:63599    ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:143       201.203.117.225:22382   ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 209.172.40.163:80       180.214.247.142:59050   TIME_WAIT   -                   
+tcp        0     85 184.107.41.70:993       142.51.215.220:52902    ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        172.70.135.202:52448    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        172.70.39.9:25296       TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        162.158.126.179:50584   TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       172.58.7.58:38495       ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        172.69.62.69:59814      TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       75.90.224.96:65308      ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        172.71.142.63:10442     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:46310     184.107.41.70:80        TIME_WAIT   -                   
+tcp        0     49 184.107.41.70:993       24.138.72.95:50436      ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:443       162.158.78.198:42006    ESTABLISHED 27973/litespeed (ls 
+tcp        0      0 184.107.41.70:443       162.158.79.165:36582    ESTABLISHED 27949/litespeed (ls 
+tcp        0      0 184.107.41.70:80        172.68.66.71:26666      TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       54.186.67.155:60350     ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:443       114.119.136.64:57396    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       162.158.87.206:40276    ESTABLISHED 27828/litespeed (ls 
+tcp        0      0 127.0.0.1:36738         127.0.0.1:783           TIME_WAIT   -                   
+tcp        0      0 209.172.40.163:80       45.115.39.79:46945      TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       45.134.140.44:46142     ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:143       199.243.172.38:60080    ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        172.70.175.119:10484    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:46770     184.107.41.70:80        TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       162.158.86.154:61636    ESTABLISHED 27949/litespeed (ls 
+tcp        0      0 209.172.40.163:80       185.210.144.132:48126   TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        162.158.78.101:64114    TIME_WAIT   -                   
+tcp        0      0 209.172.40.163:80       222.230.118.44:47026    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       172.70.174.17:28278     ESTABLISHED 27828/litespeed (ls 
+tcp        0      0 184.107.41.70:443       95.163.255.23:46321     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        184.107.41.70:46734     TIME_WAIT   -                   
+tcp        0     83 184.107.41.70:993       174.113.179.133:58868   ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        114.119.153.253:43208   TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       17.241.227.11:40540     TIME_WAIT   -                   
+tcp        0    394 184.107.41.70:80        24.126.217.85:62064     LAST_ACK    -                   
+tcp       25      0 184.107.41.70:443       184.107.41.70:38370     CLOSE_WAIT  27828/litespeed (ls 
+tcp        0      0 184.107.41.70:80        34.136.77.191:50431     ESTABLISHED 27949/litespeed (ls 
+tcp        0      0 184.107.41.70:80        162.158.90.219:36558    ESTABLISHED 27828/litespeed (ls 
+tcp        0      0 184.107.41.70:993       85.196.189.79:51983     ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       185.30.177.72:41575     ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        185.191.171.9:53816     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        172.70.175.77:48640     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       114.119.143.133:50920   TIME_WAIT   -                   
+tcp        0      0 209.172.40.135:443      85.208.98.194:48574     ESTABLISHED 27949/litespeed (ls 
+tcp        0      0 127.0.0.1:36802         127.0.0.1:783           FIN_WAIT2   -                   
+tcp        0      0 184.107.41.70:80        185.191.171.12:54532    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       24.69.45.78:55679       ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:46298     184.107.41.70:80        TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       35.85.145.103:45290     ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:443       172.70.35.108:62478     ESTABLISHED 27828/litespeed (ls 
+tcp        0      0 184.107.41.70:443       172.70.38.211:53240     ESTABLISHED 27949/litespeed (ls 
+tcp        0      0 209.172.40.142:80       34.170.236.39:39475     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       162.158.126.144:59180   ESTABLISHED 27973/litespeed (ls 
+tcp        0      0 184.107.41.70:993       108.168.114.211:51558   ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 209.172.40.163:80       91.224.104.206:53806    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       209.91.178.128:49205    ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        172.70.134.17:48388     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       201.203.117.225:17817   ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:143       201.203.117.225:22359   ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:143       201.203.117.225:17709   ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        162.158.78.4:65342      TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:52224     202.131.227.181:65073   TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        114.119.156.129:42828   TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       70.66.243.172:57239     TIME_WAIT   -                   
+tcp        0      0 209.172.40.142:80       80.248.237.152:47657    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       198.0.74.158:22919      ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:46850     184.107.41.70:80        TIME_WAIT   -                   
+tcp        0      0 127.0.0.1:36604         127.0.0.1:783           TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       35.85.145.103:44226     ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        114.119.149.199:59926   TIME_WAIT   -                   
+tcp        0      0 209.172.40.163:80       162.214.104.98:50320    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:37080     172.64.80.1:80          TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        172.71.154.56:31080     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       64.124.8.41:38316       ESTABLISHED 27949/litespeed (ls 
+tcp        0      0 184.107.41.70:80        185.191.171.33:11478    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       172.71.146.221:63664    ESTABLISHED 27828/litespeed (ls 
+tcp        0      0 184.107.41.70:80        172.69.182.141:12196    ESTABLISHED 27828/litespeed (ls 
+tcp        0      0 184.107.41.70:443       172.64.236.146:17984    ESTABLISHED 27720/litespeed (ls 
+tcp        0      0 184.107.41.70:80        162.158.171.3:63378     ESTABLISHED 27828/litespeed (ls 
+tcp        0      0 184.107.41.70:143       199.243.172.38:60081    ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:443       117.253.107.119:49777   TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:143       173.34.150.116:61056    ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 127.0.0.1:47932         127.0.0.1:27217         TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        71.90.202.179:52268     TIME_WAIT   -                   
+tcp        0      0 209.172.40.142:993      174.95.211.117:63586    ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:443       47.33.58.48:48746       ESTABLISHED 27949/litespeed (ls 
+tcp        0      0 184.107.41.70:993       75.90.224.96:64082      ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       70.26.117.39:55499      ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 209.172.40.163:80       186.225.153.227:40838   TIME_WAIT   -                   
+tcp        0      0 209.172.40.176:993      90.203.125.254:63398    ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       209.52.88.38:7729       ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       99.215.226.59:54660     ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       75.90.224.96:65205      ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        172.70.42.172:39726     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       64.124.8.36:52328       ESTABLISHED 27973/litespeed (ls 
+tcp        0      0 184.107.41.70:443       114.119.150.2:56596     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       199.34.101.195:60015    ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        172.71.158.59:64494     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        172.70.42.138:28854     TIME_WAIT   -                   
+tcp        0      0 127.0.0.1:47946         127.0.0.1:27217         TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:25        210.16.100.79:64066     ESTABLISHED 21011/exim          
+tcp        0      0 184.107.41.70:443       114.119.135.104:52130   TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        172.70.175.10:55868     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:143       199.243.172.38:60079    ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       198.0.74.158:27087      ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       76.66.162.212:64944     ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       201.203.117.225:17747   ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        185.191.171.10:28950    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:22        173.236.41.114:37814    ESTABLISHED 28644/sshd: root@pt 
+tcp        0      0 184.107.41.70:80        162.158.126.202:40842   TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       172.71.222.13:23736     ESTABLISHED 27720/litespeed (ls 
+tcp        0      0 184.107.41.70:443       17.241.227.107:38428    ESTABLISHED 27949/litespeed (ls 
+tcp        0      0 184.107.41.70:143       199.243.172.38:60075    ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:57406     44.239.130.172:443      TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        172.68.66.21:55690      TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        108.162.245.165:55196   TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        34.136.77.191:50425     ESTABLISHED 27949/litespeed (ls 
+tcp        0      0 209.172.40.135:443      85.208.98.201:46418     ESTABLISHED -                   
+tcp        0      0 184.107.41.70:993       184.66.56.215:62561     ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:143       107.159.34.84:53301     ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       70.26.117.39:55505      ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        172.71.166.249:15840    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       172.70.174.159:15154    ESTABLISHED 27973/litespeed (ls 
+tcp        0    514 184.107.41.70:443       172.64.238.56:37072     FIN_WAIT1   -                   
+tcp        0      0 184.107.41.70:993       52.96.200.205:25774     ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        52.167.144.27:56768     ESTABLISHED 27720/litespeed (ls 
+tcp        0      0 184.107.41.70:993       99.199.143.36:63203     ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:43300     34.202.190.124:443      TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        71.90.202.179:52316     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       99.215.226.59:56509     ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:22        65.60.62.90:55635       ESTABLISHED 27520/sshd: root@pt 
+tcp        0      0 184.107.41.70:993       70.26.117.39:55514      ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:443       114.119.145.210:46076   TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        185.191.171.5:18210     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:52223     88.135.68.74:38220      TIME_WAIT   -                   
+tcp        0      1 184.107.41.70:80        45.11.98.27:59652       LAST_ACK    -                   
+tcp        0      0 184.107.41.70:993       99.199.143.36:63201     ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:465       111.235.254.73:50991    ESTABLISHED 20902/exim          
+tcp        0      0 184.107.41.70:443       17.22.253.191:51046     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       17.246.15.29:52720      TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        162.158.107.30:18290    ESTABLISHED 27949/litespeed (ls 
+tcp        0      0 209.172.40.163:80       173.249.11.56:45096     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       166.62.202.190:56395    ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        162.158.166.178:29232   TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:53512     23.58.127.97:80         TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        172.70.42.64:50438      TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       86.48.15.21:49213       ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       68.145.76.114:31724     ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        71.90.202.179:52314     TIME_WAIT   -                   
+tcp        0      0 209.172.40.142:443      138.199.2.136:58368     ESTABLISHED 27828/litespeed (ls 
+tcp        0      0 184.107.41.70:993       99.215.226.59:56507     ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        172.71.150.240:26930    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       68.184.91.47:50423      ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       107.159.34.84:53299     ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        37.19.217.219:4217      TIME_WAIT   -                   
+tcp        0     37 184.107.41.70:993       97.108.219.112:50834    ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 209.172.40.135:80       172.71.222.52:31302     ESTABLISHED 27973/litespeed (ls 
+tcp        0      0 184.107.41.70:993       70.26.117.39:55494      ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        34.136.77.191:50327     ESTABLISHED 27720/litespeed (ls 
+tcp        0   3194 184.107.41.70:443       194.87.151.73:51238     ESTABLISHED -                   
+tcp        0      0 184.107.41.70:443       172.71.223.111:11720    ESTABLISHED 27720/litespeed (ls 
+tcp        0      0 184.107.41.70:993       71.215.92.160:61888     ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       159.2.58.193:60933      ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        172.69.182.251:24980    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       108.162.241.205:51028   ESTABLISHED 27828/litespeed (ls 
+tcp        0      0 184.107.41.70:80        172.70.175.223:22902    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       24.142.89.13:54287      ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        1.38.188.34:47792       FIN_WAIT2   -                   
+tcp        0      0 184.107.41.70:993       107.159.34.84:53335     ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 209.172.40.163:80       87.236.197.140:39518    TIME_WAIT   -                   
+tcp        0      0 209.172.40.163:80       5.189.159.236:42008     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        40.77.190.93:26944      TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       172.70.38.141:21398     ESTABLISHED 27720/litespeed (ls 
+tcp        0      0 184.107.41.70:993       24.36.220.4:64454       ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:465       183.182.107.206:41108   ESTABLISHED 20769/exim          
+tcp        0      0 184.107.41.70:80        114.119.138.140:48578   TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        5.188.210.20:50334      TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       114.119.150.2:57728     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:52223     5.188.62.140:62869      TIME_WAIT   -                   
+tcp        0    605 184.107.41.70:80        172.71.154.74:26162     ESTABLISHED -                   
+tcp        0      0 184.107.41.70:80        114.119.136.175:33452   ESTABLISHED 27973/litespeed (ls 
+tcp        0      0 184.107.41.70:80        94.23.61.200:56072      TIME_WAIT   -                   
+tcp        0      0 209.172.40.176:993      90.203.125.254:63390    ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:443       114.119.152.139:33166   TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       24.69.45.78:55686       ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        172.70.38.66:46490      TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        162.158.78.159:21586    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       70.26.117.39:55506      ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        172.69.242.133:48136    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        184.107.41.70:46298     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        114.119.132.187:49804   TIME_WAIT   -                   
+tcp        0      0 209.172.40.163:80       165.227.20.237:47726    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        172.69.62.71:54266      TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       17.241.219.168:49548    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       114.119.131.71:41168    TIME_WAIT   -                   
+tcp        0      0 209.172.40.163:80       66.70.189.215:48568     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       162.158.87.31:16822     ESTABLISHED 27828/litespeed (ls 
+tcp        0      0 184.107.41.70:80        162.158.79.224:11998    ESTABLISHED 27949/litespeed (ls 
+tcp        0      0 184.107.41.70:993       206.83.113.109:9832     ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        34.136.77.191:50321     ESTABLISHED 27949/litespeed (ls 
+tcp        0      0 184.107.41.70:993       136.143.177.42:59814    ESTABLISHED 13366/dovecot/imap- 
+tcp        0     46 184.107.41.70:993       24.108.101.188:49604    ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        172.69.134.141:52764    ESTABLISHED 27949/litespeed (ls 
+tcp        0      0 184.107.41.70:993       68.184.91.47:50424      ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       199.16.179.238:34443    ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       54.198.252.194:56842    ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:2096      70.66.243.172:42488     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        172.71.223.105:37492    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       73.8.184.160:62952      ESTABLISHED 27949/litespeed (ls 
+tcp        0      0 184.107.41.70:80        34.136.77.191:50265     FIN_WAIT2   -                   
+tcp        0      0 184.107.41.70:80        34.136.77.191:50362     ESTABLISHED 27949/litespeed (ls 
+tcp        0      0 184.107.41.70:993       24.71.234.171:49897     ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:22        65.60.62.90:53067       ESTABLISHED 25307/sshd: root@pt 
+tcp        0   4988 184.107.41.70:443       63.143.45.114:35956     ESTABLISHED -                   
+tcp        0      0 184.107.41.70:80        34.136.77.191:50458     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       68.145.76.114:3537      ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        1.38.188.34:47788       FIN_WAIT2   -                   
+tcp        0      0 184.107.41.70:443       114.119.143.133:49950   TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        172.71.150.15:64338     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       172.70.43.44:52724      ESTABLISHED 27720/litespeed (ls 
+tcp        0      0 184.107.41.70:443       17.22.245.37:36386      TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       99.227.252.224:51200    ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 209.172.40.142:80       185.191.171.43:13520    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        172.70.142.79:24290     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       24.71.234.171:50529     ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:443       107.173.246.150:24441   TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        172.70.175.7:42784      TIME_WAIT   -                   
+tcp        0      0 209.172.40.163:80       5.189.159.236:46820     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        162.158.126.186:65362   TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       108.162.245.154:43322   ESTABLISHED 27949/litespeed (ls 
+tcp        0      0 184.107.41.70:80        34.106.225.83:16267     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:46720     184.107.41.70:80        TIME_WAIT   -                   
+tcp        0      0 209.172.40.139:25       193.42.33.217:43536     ESTABLISHED 20768/exim          
+tcp        0      0 184.107.41.70:443       162.158.189.72:38870    ESTABLISHED 27973/litespeed (ls 
+tcp        0      0 184.107.41.70:80        131.153.143.50:46660    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       162.158.103.25:64906    ESTABLISHED 27949/litespeed (ls 
+tcp        0      0 209.172.40.135:80       172.70.42.212:64708     ESTABLISHED 27828/litespeed (ls 
+tcp        0      0 184.107.41.70:443       162.158.86.14:13504     ESTABLISHED 27720/litespeed (ls 
+tcp        0      0 184.107.41.70:80        172.71.223.7:44768      TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:25        112.199.240.250:50267   ESTABLISHED 19644/exim          
+tcp        0      0 184.107.41.70:80        34.136.77.191:50209     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       24.71.234.171:49900     ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 209.172.40.142:80       114.119.155.92:52224    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:48282     35.155.126.231:443      TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:143       107.159.34.84:53337     ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:443       17.22.245.68:33144      TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       172.70.42.174:10672     ESTABLISHED 27720/litespeed (ls 
+tcp        0      0 209.172.40.163:80       45.70.41.30:43507       TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       72.143.212.214:36493    ESTABLISHED 13355/dovecot/imap- 
+tcp        1    131 184.107.41.70:993       159.2.58.193:62050      CLOSING     -                   
+tcp        0      0 184.107.41.70:80        185.191.171.38:30438    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        71.90.202.179:52276     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       45.134.140.44:46196     ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:443       172.70.42.195:26406     ESTABLISHED 27720/litespeed (ls 
+tcp        0      0 184.107.41.70:80        162.158.171.28:29332    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       114.119.136.64:57792    ESTABLISHED 27949/litespeed (ls 
+tcp        0      0 184.107.41.70:993       166.62.202.190:56458    ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        172.68.66.113:40532     TIME_WAIT   -                   
+tcp        0      0 209.172.40.163:80       185.53.143.117:47412    TIME_WAIT   -                   
+tcp        0      0 127.0.0.1:47940         127.0.0.1:27217         TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        15.235.10.34:34108      TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       114.119.152.139:37190   TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:143       201.203.117.225:17681   ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        162.158.90.174:37010    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:143       199.243.172.38:60077    ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        172.69.33.210:55090     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       24.64.123.238:56927     ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       199.34.101.195:51118    ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       161.199.207.56:53831    ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:2096      70.66.243.172:42544     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       159.2.58.193:62154      ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:443       172.68.110.131:51056    ESTABLISHED 27949/litespeed (ls 
+tcp        0      0 184.107.41.70:993       107.159.34.84:53302     ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        172.68.110.131:41098    TIME_WAIT   -                   
+tcp        0      0 209.172.40.163:80       190.129.60.120:55500    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       76.66.162.212:55654     ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        172.70.34.235:13646     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       76.66.162.212:55652     ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        172.71.154.24:17662     ESTABLISHED 27973/litespeed (ls 
+tcp        0      0 184.107.41.70:80        1.38.188.34:47777       FIN_WAIT2   -                   
+tcp        0      0 184.107.41.70:443       173.183.92.127:49526    ESTABLISHED 27973/litespeed (ls 
+tcp        0      0 127.0.0.1:47936         127.0.0.1:27217         TIME_WAIT   -                   
+tcp        0      0 209.172.40.142:80       185.191.171.15:18448    TIME_WAIT   -                   
+tcp        0     35 184.107.41.70:443       134.87.51.60:60140      ESTABLISHED 27828/litespeed (ls 
+tcp        0      0 184.107.41.70:80        172.69.22.66:41028      TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       52.205.239.190:48796    ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       99.215.226.59:56475     ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 209.172.40.163:80       164.160.35.252:52986    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       172.71.146.192:65018    ESTABLISHED 27720/litespeed (ls 
+tcp        0      0 209.172.40.142:80       185.191.171.10:40426    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       114.119.141.2:49542     TIME_WAIT   -                   
+tcp        0   8854 184.107.41.70:80        65.21.35.180:50276      ESTABLISHED 27828/litespeed (ls 
+tcp        0     46 184.107.41.70:993       70.50.99.38:42857       ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       207.228.78.135:31119    ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        108.162.245.130:34698   TIME_WAIT   -                   
+tcp        0      0 209.172.40.142:80       34.170.236.39:39709     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       184.146.226.37:65058    ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:8888      167.94.138.60:40536     TIME_WAIT   -                   
+tcp        0      0 209.172.40.163:443      68.4.172.98:52951       ESTABLISHED 27720/litespeed (ls 
+tcp        0      0 184.107.41.70:53610     23.58.127.97:80         TIME_WAIT   -                   
+tcp        0      0 209.172.40.142:80       80.248.237.152:45323    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       20.24.80.155:51014      ESTABLISHED 27949/litespeed (ls 
+tcp        0      0 184.107.41.70:80        194.87.151.73:63985     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:143       24.235.140.88:60024     ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        162.158.126.169:58792   ESTABLISHED 27828/litespeed (ls 
+tcp        0      0 184.107.41.70:993       54.186.67.155:35056     ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       205.201.30.115:50836    ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:43710     184.107.41.70:3306      TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        172.70.38.206:23582     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:143       24.36.220.4:64499       ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        185.191.171.11:46936    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       108.172.255.51:61727    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:143       24.36.220.4:64500       ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 209.172.40.163:80       116.203.105.93:58028    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       136.143.177.42:60554    ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       68.145.76.114:18435     ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:443       192.42.116.174:53964    ESTABLISHED 27720/litespeed (ls 
+tcp        0      0 184.107.41.70:443       114.119.131.33:35210    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       184.66.20.131:49614     ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       99.215.226.59:56508     ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:46752     184.107.41.70:80        TIME_WAIT   -                   
+tcp        0      1 184.107.41.70:80        34.136.77.191:50663     LAST_ACK    -                   
+tcp        0      0 184.107.41.70:80        34.136.77.191:50387     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        34.136.77.191:50147     TIME_WAIT   -                   
+tcp        0      0 127.0.0.1:35114         127.0.0.1:3306          TIME_WAIT   -                   
+tcp        0      1 184.107.41.70:80        94.182.176.136:46185    FIN_WAIT1   -                   
+tcp        0      0 184.107.41.70:993       209.52.88.38:21720      ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 10.11.207.51:52032      10.11.207.38:22         ESTABLISHED 26823/ssh           
+tcp        0      0 184.107.41.70:993       72.143.212.214:36505    ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        172.71.147.10:49702     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        162.158.103.25:25314    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        200.4.140.32:37098      TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        34.136.77.191:50322     ESTABLISHED 27949/litespeed (ls 
+tcp        0      0 184.107.41.70:37444     172.64.80.1:80          TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        172.70.214.171:22106    ESTABLISHED 27828/litespeed (ls 
+tcp        0      0 184.107.41.70:993       136.143.177.42:59798    ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        85.208.98.196:38582     ESTABLISHED 27720/litespeed (ls 
+tcp        0      0 184.107.41.70:80        1.38.188.34:47753       FIN_WAIT2   -                   
+tcp        0      0 184.107.41.70:2096      70.66.243.172:42486     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       108.162.245.234:13536   ESTABLISHED 27828/litespeed (ls 
+tcp        0      0 184.107.41.70:993       159.2.58.193:62155      ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 209.172.40.135:443      85.208.98.198:42264     ESTABLISHED 27949/litespeed (ls 
+tcp        0      0 184.107.41.70:80        108.162.241.100:20930   ESTABLISHED 27973/litespeed (ls 
+tcp        0      0 184.107.41.70:993       70.26.117.39:55513      ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 209.172.40.142:25       113.132.66.1:8390       TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       24.89.225.254:62179     ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        162.158.126.199:37586   TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:48360     35.155.126.231:443      TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        172.70.174.199:13014    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:2096      186.177.79.40:50524     ESTABLISHED 9367/webmaild - ser 
+tcp        0      0 184.107.41.70:80        162.158.126.124:15876   TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       172.71.223.94:60038     ESTABLISHED 27949/litespeed (ls 
+tcp        0      0 184.107.41.70:993       71.88.26.79:51925       ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:443       147.219.156.33:53865    ESTABLISHED 27720/litespeed (ls 
+tcp        0      0 209.172.40.142:443      138.199.2.136:60338     ESTABLISHED 27828/litespeed (ls 
+tcp        0      0 184.107.41.70:993       216.121.161.43:61432    ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 209.172.40.163:80       115.70.87.207:37436     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        162.158.251.189:56820   TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        162.158.251.188:21706   TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:2096      99.228.249.15:52456     ESTABLISHED 18873/webmaild - se 
+tcp        0      0 184.107.41.70:80        162.158.79.150:20570    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:46864     184.107.41.70:80        TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       184.146.226.37:65059    ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        172.69.33.210:38642     ESTABLISHED 27973/litespeed (ls 
+tcp        0     79 184.107.41.70:995       188.66.231.175:61382    FIN_WAIT1   -                   
+tcp        0      0 184.107.41.70:80        172.71.158.58:9286      TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:143       99.235.154.39:65105     ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:443       38.113.173.87:32577     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        185.215.180.76:50935    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       50.100.204.85:55271     ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       99.199.143.36:63202     ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 209.172.40.163:80       62.210.71.99:38650      TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        83.143.133.68:34372     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        34.136.77.191:50323     ESTABLISHED 27720/litespeed (ls 
+tcp        0      0 209.172.40.142:443      181.177.102.13:60645    ESTABLISHED 27828/litespeed (ls 
+tcp        0      0 184.107.41.70:993       187.188.16.197:61514    ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       75.90.224.96:65182      ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:48394     35.155.126.231:443      TIME_WAIT   -                   
+tcp        0      0 209.172.40.142:443      34.170.236.39:54604     ESTABLISHED 27973/litespeed (ls 
+tcp        0      0 184.107.41.70:80        185.191.171.15:8074     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        172.71.158.97:64442     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       58.11.188.79:44510      ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        34.136.77.191:50212     FIN_WAIT2   -                   
+tcp        0      0 184.107.41.70:993       72.143.212.214:36542    ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:443       172.71.150.151:10576    ESTABLISHED 27973/litespeed (ls 
+tcp        0      0 184.107.41.70:993       99.215.226.59:56505     ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       173.238.160.200:49633   ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:44746     198.143.164.251:443     ESTABLISHED -                   
+tcp        0      0 184.107.41.70:443       96.55.218.89:63461      ESTABLISHED 27720/litespeed (ls 
+tcp        0      0 184.107.41.70:80        191.6.211.37:44696      TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       108.172.255.51:61517    ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 209.172.40.163:80       178.128.126.41:40104    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        34.106.225.83:16266     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       199.34.101.195:51123    ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       107.159.34.84:53298     ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:443       172.70.135.176:29134    ESTABLISHED 27973/litespeed (ls 
+tcp        0      0 184.107.41.70:443       172.69.182.216:40880    ESTABLISHED 27720/litespeed (ls 
+tcp        0      0 184.107.41.70:80        172.70.34.234:29412     ESTABLISHED 27949/litespeed (ls 
+tcp        0      0 184.107.41.70:80        108.162.245.63:27062    TIME_WAIT   -                   
+tcp        0      0 209.172.40.142:80       185.191.171.6:8508      TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        162.158.126.165:59450   TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        185.191.171.10:16618    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:46762     184.107.41.70:80        TIME_WAIT   -                   
+tcp        0      0 209.172.40.163:80       68.4.172.98:52942       TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        114.119.147.137:48332   TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        172.71.158.73:58338     ESTABLISHED 27949/litespeed (ls 
+tcp        0      0 184.107.41.70:443       162.158.87.95:14610     ESTABLISHED 27973/litespeed (ls 
+tcp        0      0 184.107.41.70:993       174.115.246.153:60930   ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:443       85.208.98.197:49035     ESTABLISHED 27973/litespeed (ls 
+tcp        0      0 184.107.41.70:443       172.70.42.120:30902     ESTABLISHED 27828/litespeed (ls 
+tcp        0      0 184.107.41.70:35526     136.243.174.104:443     ESTABLISHED 33607/python3       
+tcp        0      0 184.107.41.70:80        162.158.126.27:58688    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:48268     35.155.126.231:443      TIME_WAIT   -                   
+tcp        0      0 209.172.40.163:443      68.4.172.98:52975       ESTABLISHED 27720/litespeed (ls 
+tcp        0      0 184.107.41.70:80        162.158.126.128:19698   TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:52223     212.192.24.22:35156     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:53646     23.58.127.97:80         TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        114.119.145.81:41968    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        34.136.77.191:50424     ESTABLISHED 27720/litespeed (ls 
+tcp        0      0 209.172.40.163:80       207.246.110.233:51460   TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        46.161.15.14:48126      ESTABLISHED -                   
+tcp        0      0 184.107.41.70:993       209.240.116.116:55093   ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       184.146.226.37:65046    ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:443       46.98.212.71:50347      TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       162.158.126.174:24560   ESTABLISHED 27949/litespeed (ls 
+tcp        0      0 184.107.41.70:80        34.136.77.191:50305     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       17.241.75.4:48224       TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       211.249.40.21:43228     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       172.70.175.44:58134     ESTABLISHED 27973/litespeed (ls 
+tcp        0      0 184.107.41.70:2096      64.250.86.6:44075       ESTABLISHED 15729/webmaild - se 
+tcp        0      0 184.107.41.70:443       17.241.75.22:33626      TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        184.107.41.70:46278     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       54.146.223.61:26141     ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        34.136.77.191:50222     ESTABLISHED 27828/litespeed (ls 
+tcp        0      0 184.107.41.70:443       17.246.23.205:46628     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       64.228.68.211:38280     ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       166.62.202.190:56046    ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:443       75.157.175.19:47039     ESTABLISHED 27973/litespeed (ls 
+tcp        0      0 184.107.41.70:443       17.22.253.217:58118     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:46824     184.107.41.70:80        TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        162.158.189.6:33956     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        172.70.42.211:40450     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        66.249.66.42:43270      ESTABLISHED 27949/litespeed (ls 
+tcp        0      0 209.172.40.163:80       209.33.202.138:52348    TIME_WAIT   -                   
+tcp        0      1 184.107.41.70:80        45.11.98.27:59646       LAST_ACK    -                   
+tcp        0      0 209.172.40.140:993      201.191.16.35:60335     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        185.191.171.15:25768    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        162.158.90.180:12948    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       17.241.219.152:47288    TIME_WAIT   -                   
+tcp        0      0 209.172.40.135:443      85.208.98.193:41201     ESTABLISHED 27973/litespeed (ls 
+tcp        0      0 184.107.41.70:993       199.243.172.38:60083    ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:443       162.158.87.2:39106      ESTABLISHED 27828/litespeed (ls 
+tcp        0      0 184.107.41.70:443       162.158.86.220:21040    ESTABLISHED 27720/litespeed (ls 
+tcp        1      0 184.107.41.70:55674     138.201.62.48:443       CLOSE_WAIT  2368/python3        
+tcp        0      0 184.107.41.70:993       174.115.246.153:60927   ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        172.71.146.141:52316    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:143       173.34.150.116:61058    ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:443       162.158.86.197:48382    ESTABLISHED 27949/litespeed (ls 
+tcp        0      0 184.107.41.70:80        185.191.171.9:40072     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:465       166.164.39.181:7153     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        162.158.126.18:10740    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:465       63.46.212.22:24559      TIME_WAIT   -                   
+tcp        0      0 127.0.0.1:35228         127.0.0.1:3306          TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        81.19.145.89:34830      TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       23.88.41.31:40790       ESTABLISHED 27973/litespeed (ls 
+tcp        0      0 184.107.41.70:443       162.158.87.178:10712    ESTABLISHED 27949/litespeed (ls 
+tcp        0      0 184.107.41.70:80        185.191.171.10:58434    TIME_WAIT   -                   
+tcp        1    423 209.172.40.139:443      106.75.48.151:38310     CLOSING     -                   
+tcp        0      0 184.107.41.70:80        184.107.41.70:46752     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       35.85.145.103:43448     ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       99.77.114.143:58274     ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       35.163.94.178:53798     ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:143       206.83.113.109:11401    ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       99.215.226.59:56504     ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       91.174.31.55:17014      ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        172.70.147.3:43452      TIME_WAIT   -                   
+tcp        0      0 209.172.40.142:80       185.191.171.22:38052    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       68.4.172.98:52928       ESTABLISHED 27949/litespeed (ls 
+tcp        0      0 184.107.41.70:993       209.52.88.38:8476       ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        162.158.166.174:52700   TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       122.55.231.2:52153      ESTABLISHED 27828/litespeed (ls 
+tcp        0      0 209.172.40.176:993      90.203.125.254:63389    ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        172.69.22.213:54248     TIME_WAIT   -                   
+tcp        0      0 209.172.40.163:80       103.41.204.29:48456     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       172.58.7.58:44477       ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       108.168.114.211:51565   ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 209.172.40.142:443      34.170.236.39:54593     ESTABLISHED 27949/litespeed (ls 
+tcp        0      0 184.107.41.70:993       216.121.161.43:51066    ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        162.158.251.14:53750    ESTABLISHED 27973/litespeed (ls 
+tcp        0      0 184.107.41.70:443       162.158.79.195:52690    ESTABLISHED 27973/litespeed (ls 
+tcp        0     46 184.107.41.70:993       86.48.15.21:49212       ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 209.172.40.169:80       172.71.198.103:25228    ESTABLISHED 27949/litespeed (ls 
+tcp        0      0 209.172.40.135:443      85.208.98.199:51583     ESTABLISHED 27720/litespeed (ls 
+tcp        0      0 184.107.41.70:443       172.70.135.75:10924     ESTABLISHED 27973/litespeed (ls 
+tcp        0      0 184.107.41.70:80        191.6.211.37:44688      TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:143       199.243.172.38:60082    ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       209.213.230.244:63588   ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:443       162.158.87.175:13966    ESTABLISHED 27720/litespeed (ls 
+tcp        0      0 184.107.41.70:443       114.119.140.99:50344    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       209.213.230.244:63590   ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        162.158.78.99:10734     ESTABLISHED 27949/litespeed (ls 
+tcp        0      0 209.172.40.151:22       13.52.186.105:41144     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:465       193.200.50.118:35818    ESTABLISHED 21009/exim          
+tcp        0      1 209.172.40.142:443      34.170.236.39:54567     FIN_WAIT1   -                   
+tcp        0      0 184.107.41.70:993       185.30.177.85:26250     ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        162.158.78.72:42390     TIME_WAIT   -                   
+tcp        0      0 209.172.40.142:80       185.191.171.24:37770    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       108.168.114.211:51519   ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       70.26.117.39:55480      ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       64.112.89.172:50011     ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        184.107.41.70:46754     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        185.191.171.39:44058    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       66.27.171.41:49795      ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       185.30.177.201:34094    ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       75.90.224.96:65292      ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        47.91.124.195:41962     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        34.106.225.83:16270     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        200.4.140.32:37096      TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        162.158.126.162:51734   TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       172.71.142.57:55992     ESTABLISHED 27973/litespeed (ls 
+tcp        0      0 209.172.40.142:443      34.170.236.39:54340     ESTABLISHED 27949/litespeed (ls 
+tcp        0      0 184.107.41.70:80        162.158.146.215:53394   ESTABLISHED 27949/litespeed (ls 
+tcp        0      0 184.107.41.70:80        172.71.222.29:53354     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       108.162.245.6:43752     ESTABLISHED 27828/litespeed (ls 
+tcp        0      0 184.107.41.70:80        162.158.126.169:12786   TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:46872     184.107.41.70:80        TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       24.36.220.4:64468       ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       173.35.39.67:55846      ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:43428     136.243.174.87:443      ESTABLISHED 33599/imunify360-un 
+tcp        0      0 184.107.41.70:443       86.32.55.27:19877       ESTABLISHED 27720/litespeed (ls 
+tcp        0      0 209.172.40.176:993      90.203.125.254:63392    ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        172.70.175.168:30654    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       114.119.148.10:48736    TIME_WAIT   -                   
+tcp        1    131 184.107.41.70:993       159.2.58.193:62071      CLOSING     -                   
+tcp        0      0 184.107.41.70:993       24.142.89.13:54288      ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        94.23.61.200:54761      TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        34.77.13.3:1998         ESTABLISHED 27949/litespeed (ls 
+tcp        0      0 184.107.41.70:993       159.2.58.193:61196      ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:22        173.236.41.114:37844    ESTABLISHED 5705/sshd: root@pts 
+tcp        0      0 184.107.41.70:993       68.184.91.47:50422      ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       205.201.30.115:50835    ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        172.69.134.178:16602    TIME_WAIT   -                   
+tcp        0      0 209.172.40.163:80       68.183.92.54:27184      TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:8887      185.220.101.26:13584    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       17.22.245.180:50464     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       172.70.38.91:26648      ESTABLISHED 27720/litespeed (ls 
+tcp        0      0 184.107.41.70:80        172.70.147.131:47492    ESTABLISHED 27720/litespeed (ls 
+tcp        0      0 184.107.41.70:443       108.162.241.205:51014   ESTABLISHED 27828/litespeed (ls 
+tcp        0      0 184.107.41.70:80        172.71.222.141:17606    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       108.172.255.51:61728    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       1.145.29.18:1540        FIN_WAIT2   -                   
+tcp        1    475 184.107.41.70:443       66.96.214.53:35534      CLOSING     -                   
+tcp        0      0 209.172.40.142:80       140.205.11.7:11686      TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       206.83.113.109:12332    ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        172.71.223.37:26330     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:143       76.66.162.212:64945     ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        34.106.225.83:16268     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       108.162.241.204:59642   ESTABLISHED 27973/litespeed (ls 
+tcp        0      0 209.172.40.142:443      34.170.236.39:54069     TIME_WAIT   -                   
+tcp        0      0 209.172.40.163:80       156.67.220.186:35710    TIME_WAIT   -                   
+tcp        0     46 184.107.41.70:143       76.66.162.212:64930     ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       52.96.49.213:4530       ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       35.163.94.178:52768     ESTABLISHED 13355/dovecot/imap- 
+tcp        0     46 184.107.41.70:993       184.66.56.215:62396     ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       24.143.172.202:38426    ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        172.70.92.210:30888     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       162.158.78.153:37694    ESTABLISHED 27973/litespeed (ls 
+tcp        0      0 184.107.41.70:80        172.70.85.111:56598     ESTABLISHED 27949/litespeed (ls 
+tcp        0      0 184.107.41.70:443       108.162.241.205:51002   ESTABLISHED 27973/litespeed (ls 
+tcp        0      0 184.107.41.70:80        172.71.102.184:53872    ESTABLISHED 27973/litespeed (ls 
+tcp        0      0 184.107.41.70:80        34.136.77.191:49092     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       194.87.151.73:50515     FIN_WAIT2   -                   
+tcp        0      0 209.172.40.163:80       82.165.163.177:53342    TIME_WAIT   -                   
+tcp        0      0 209.172.40.176:993      90.203.125.254:63395    ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       172.58.7.58:29992       ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 209.172.40.142:443      114.119.141.83:41374    TIME_WAIT   -                   
+tcp        0      0 209.172.40.142:80       80.248.237.152:59299    TIME_WAIT   -                   
+tcp        0      0 209.172.40.135:80       172.71.222.211:30924    ESTABLISHED 27720/litespeed (ls 
+tcp        0      0 184.107.41.70:993       201.203.117.225:17693   ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        162.158.103.245:12932   TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:2096      70.66.243.172:42514     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       161.199.207.56:43265    ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:46278     184.107.41.70:80        TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       95.163.255.29:48440     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       172.69.182.180:43018    ESTABLISHED 27973/litespeed (ls 
+tcp        0      1 209.172.40.142:33017    20.112.52.29:25         SYN_SENT    19283/exim          
+tcp        0      0 184.107.41.70:587       134.209.179.204:49556   TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:143       24.235.140.88:60022     ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        185.191.171.40:26010    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       173.238.228.7:47724     ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        172.69.134.12:34750     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        184.107.41.70:46264     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:143       199.243.172.38:60078    ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       199.34.101.195:54187    ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 127.0.0.1:47928         127.0.0.1:27217         TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        114.119.137.146:46718   ESTABLISHED 27973/litespeed (ls 
+tcp        0      0 209.172.40.135:443      85.208.98.196:58172     ESTABLISHED 27949/litespeed (ls 
+tcp        0      0 184.107.41.70:80        172.70.43.38:26768      TIME_WAIT   -                   
+tcp        0      0 209.172.40.142:80       185.191.171.2:55598     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:22        65.60.62.90:55398       ESTABLISHED 2449/sshd: root@pts 
+tcp        0      0 209.172.40.142:993      174.95.211.117:63592    ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       199.16.179.238:34631    ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:443       114.119.141.2:50284     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        34.136.77.191:50302     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       172.70.189.153:9176     ESTABLISHED 27949/litespeed (ls 
+tcp        0      0 184.107.41.70:443       100.26.127.17:25455     ESTABLISHED 27828/litespeed (ls 
+tcp        0      0 184.107.41.70:80        34.136.77.191:50224     FIN_WAIT2   -                   
+tcp        0      0 184.107.41.70:993       201.203.117.225:17795   ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 209.172.40.142:443      138.199.2.136:43878     ESTABLISHED 27949/litespeed (ls 
+tcp        0      0 184.107.41.70:993       174.112.232.48:59626    ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        198.41.233.10:39256     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       99.77.114.143:58275     ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       166.62.202.190:56432    ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       70.66.235.248:61941     ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        172.64.236.147:29552    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       69.107.128.31:56978     ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:8887      167.248.133.189:33432   ESTABLISHED 27973/litespeed (ls 
+tcp        0      0 184.107.41.70:80        184.107.41.70:46738     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        172.71.202.11:10076     ESTABLISHED 27973/litespeed (ls 
+tcp        0    500 184.107.41.70:993       142.127.203.214:49861   ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        162.158.251.190:54700   ESTABLISHED 27828/litespeed (ls 
+tcp        0      0 184.107.41.70:80        83.143.133.68:34672     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        172.69.182.253:31960    ESTABLISHED 27973/litespeed (ls 
+tcp        0      0 184.107.41.70:443       24.186.67.240:35459     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        162.158.126.202:50630   TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       154.124.57.103:57298    ESTABLISHED 27828/litespeed (ls 
+tcp        0      0 209.172.40.140:993      201.191.16.35:60333     TIME_WAIT   -                   
+tcp        0      0 209.172.40.142:80       185.191.171.7:56924     TIME_WAIT   -                   
+tcp        0      0 209.172.40.164:22       43.163.200.216:51494    ESTABLISHED 20995/sshd: unknown 
+tcp        0      0 184.107.41.70:80        5.188.210.20:50763      TIME_WAIT   -                   
+tcp        0      0 209.172.40.163:80       63.143.45.114:50542     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       70.26.117.39:55495      ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       199.34.101.195:60016    ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:443       66.249.66.69:44127      ESTABLISHED -                   
+tcp        0      0 184.107.41.70:443       100.26.127.17:3311      ESTABLISHED 27720/litespeed (ls 
+tcp        0      0 184.107.41.70:80        45.77.114.16:58966      ESTABLISHED 27973/litespeed (ls 
+tcp        0      0 184.107.41.70:993       199.243.172.38:60074    ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        185.191.171.13:40738    TIME_WAIT   -                   
+tcp        0     37 184.107.41.70:993       97.108.219.112:50841    ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        37.120.217.148:56364    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       209.213.230.244:63593   ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 209.172.40.163:80       62.210.71.99:38368      TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       66.27.171.41:49813      ESTABLISHED 13366/dovecot/imap- 
+tcp        0    293 209.172.40.178:22       117.158.56.11:46171     LAST_ACK    -                   
+tcp        0     46 209.172.40.136:993      24.108.101.188:49605    ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       166.62.202.190:56445    ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        39.45.131.65:45368      TIME_WAIT   -                   
+tcp        0      0 209.172.40.142:80       185.191.171.7:52158     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:25        54.240.40.250:36997     ESTABLISHED 19839/exim          
+tcp        0      0 184.107.41.70:993       24.64.123.238:56932     ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       107.159.34.84:53338     ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       142.182.197.116:8417    ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:42912     107.155.119.73:443      TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        172.69.22.66:55790      TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        71.90.202.179:52278     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       199.34.101.195:60243    ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       70.66.235.248:61940     ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:443       172.70.34.39:54376      ESTABLISHED 27973/litespeed (ls 
+tcp        0      0 184.107.41.70:80        184.107.41.70:46664     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       52.96.199.45:3373       ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       35.163.94.178:52760     ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        108.162.241.159:9136    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       172.56.44.6:23173       ESTABLISHED 27973/litespeed (ls 
+tcp        0      0 209.172.40.142:443      34.170.236.39:54603     ESTABLISHED 27828/litespeed (ls 
+tcp        0      0 184.107.41.70:80        40.77.190.53:5952       TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        185.191.171.11:21152    TIME_WAIT   -                   
+tcp        0      0 209.172.40.142:443      34.170.236.39:54602     ESTABLISHED 27828/litespeed (ls 
+tcp        0      0 184.107.41.70:80        172.71.222.34:20592     TIME_WAIT   -                   
+tcp        0      0 127.0.0.1:783           127.0.0.1:36802         CLOSE_WAIT  -                   
+tcp        0      0 184.107.41.70:993       64.119.197.7:13121      ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:995       166.196.57.146:64186    ESTABLISHED 13364/dovecot/pop3- 
+tcp        0      0 184.107.41.70:80        172.71.154.24:61186     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        172.69.62.58:64710      TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        185.191.171.7:9468      TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       68.145.76.114:10069     ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        172.69.22.177:14946     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       209.213.230.244:63592   ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       99.228.149.106:54400    ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        1.38.188.34:47769       FIN_WAIT2   -                   
+tcp        0      0 184.107.41.70:443       17.22.253.61:34996      TIME_WAIT   -                   
+tcp        0      0 209.172.40.178:22       124.106.227.70:49794    ESTABLISHED 20996/sshd: [accept 
+tcp        0      0 184.107.41.70:443       1.145.29.18:1539        TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       45.134.140.44:46188     ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        172.70.211.134:23272    ESTABLISHED 27949/litespeed (ls 
+tcp        0      0 209.172.40.163:80       18.234.113.41:60102     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        1.38.188.34:47768       FIN_WAIT2   -                   
+tcp        0      0 184.107.41.70:80        63.143.42.243:58518     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       68.4.172.98:52927       ESTABLISHED 27720/litespeed (ls 
+tcp        0      0 184.107.41.70:143       199.243.172.38:60070    ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:465       191.36.157.125:52730    ESTABLISHED 19142/exim          
+tcp        0      0 209.172.40.142:443      34.170.236.39:54600     ESTABLISHED 27973/litespeed (ls 
+tcp        0      0 184.107.41.70:993       70.26.117.39:55515      ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:443       172.71.223.106:55402    ESTABLISHED 27828/litespeed (ls 
+tcp        0      0 184.107.41.70:80        172.70.43.53:37424      TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        66.249.66.83:50016      ESTABLISHED 27828/litespeed (ls 
+tcp        0      0 184.107.41.70:80        172.71.154.56:49740     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:46738     184.107.41.70:80        TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       86.48.15.21:54583       ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        185.191.171.38:24760    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       172.70.134.251:47234    ESTABLISHED 27720/litespeed (ls 
+tcp        0      0 184.107.41.70:993       99.215.226.59:56566     ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        162.158.106.201:19400   TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       107.159.34.84:53336     ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 209.172.40.142:443      1.226.0.153:58447       TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        185.191.171.18:55008    TIME_WAIT   -                   
+tcp        0      0 209.172.40.183:22       45.125.66.18:43218      ESTABLISHED -                   
+tcp        0      0 184.107.41.70:993       166.62.202.190:56422    ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        162.158.79.201:49662    ESTABLISHED 27949/litespeed (ls 
+tcp        0      0 184.107.41.70:443       172.70.175.46:24170     ESTABLISHED 27949/litespeed (ls 
+tcp        0      0 184.107.41.70:80        185.191.171.44:11732    TIME_WAIT   -                   
+tcp        0      0 127.0.0.1:7080          127.0.0.1:54878         TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:52122     158.101.35.223:443      TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        172.68.66.98:17424      TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        172.69.62.17:13026      TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        172.69.62.11:33088      TIME_WAIT   -                   
+tcp        0      0 209.172.40.142:25       193.42.33.16:53040      ESTABLISHED 20873/exim          
+tcp        0      0 184.107.41.70:80        34.136.77.191:50392     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        172.71.223.132:21928    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        162.158.90.133:35074    TIME_WAIT   -                   
+tcp        0      0 209.172.40.163:80       68.4.172.98:52943       TIME_WAIT   -                   
+tcp        0      0 209.172.40.163:80       15.204.18.195:36820     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       100.26.127.17:48556     ESTABLISHED 27720/litespeed (ls 
+tcp        0      0 209.172.40.142:80       34.170.236.39:40725     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:2096      70.66.243.172:42548     ESTABLISHED 20907/webmaild - se 
+tcp        0      0 209.172.40.163:80       91.224.104.206:51727    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        34.136.77.191:50278     ESTABLISHED 27949/litespeed (ls 
+tcp        0      0 184.107.41.70:80        34.136.77.191:50426     ESTABLISHED 27828/litespeed (ls 
+tcp        0      0 184.107.41.70:80        172.71.222.78:10422     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        184.107.41.70:46850     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:48108     65.60.61.22:3306        TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:143       206.83.113.109:6877     ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:443       162.158.87.184:42708    ESTABLISHED 27828/litespeed (ls 
+tcp        0      0 184.107.41.70:80        172.70.174.180:40758    ESTABLISHED 27720/litespeed (ls 
+tcp        0      0 184.107.41.70:443       162.158.186.9:61880     ESTABLISHED 27828/litespeed (ls 
+tcp        0      0 184.107.41.70:80        34.136.77.191:50307     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        216.18.216.170:60718    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:52223     188.85.81.233:34258     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:46734     184.107.41.70:80        TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       174.115.246.153:60929   ESTABLISHED 13355/dovecot/imap- 
+tcp        0     49 184.107.41.70:8888      167.94.138.60:41894     ESTABLISHED 27949/litespeed (ls 
+tcp        0      0 184.107.41.70:993       166.62.202.190:56459    ESTABLISHED 13355/dovecot/imap- 
+tcp        0     49 184.107.41.70:993       24.138.72.95:50433      ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:443       172.70.34.195:13192     ESTABLISHED 27973/litespeed (ls 
+tcp        0      0 127.0.0.1:35696         127.0.0.1:3306          TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        185.191.171.4:14928     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        185.191.171.9:16328     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:42878     107.155.119.73:443      TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        162.158.146.219:25918   TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       209.213.230.244:63591   ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        162.158.251.41:37750    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       172.70.38.34:64510      ESTABLISHED 27828/litespeed (ls 
+tcp        0      0 184.107.41.70:143       174.112.232.48:59625    ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:443       75.157.172.180:52251    ESTABLISHED 27720/litespeed (ls 
+tcp        0     46 184.107.41.70:993       76.66.162.212:64931     ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        114.119.141.71:45362    TIME_WAIT   -                   
+tcp        0      0 209.172.40.163:80       5.189.159.236:43676     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        34.136.77.191:50427     ESTABLISHED 27720/litespeed (ls 
+tcp        0      0 184.107.41.70:993       184.146.226.37:65047    ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 127.0.0.1:27217         127.0.0.1:40480         ESTABLISHED 3501/mongod         
+tcp        0      0 184.107.41.70:993       99.215.226.59:56579     ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        34.106.225.83:16271     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        188.165.223.112:59030   TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        172.71.154.196:54480    TIME_WAIT   -                   
+tcp        0      0 209.172.40.142:443      34.170.236.39:54601     ESTABLISHED 27949/litespeed (ls 
+tcp        0      0 184.107.41.70:80        132.76.61.51:64016      ESTABLISHED 27720/litespeed (ls 
+tcp        0      0 184.107.41.70:80        162.158.166.176:63304   TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        162.158.126.212:28566   TIME_WAIT   -                   
+tcp        0     58 184.107.41.70:465       122.170.99.79:42416     LAST_ACK    -                   
+tcp        0      0 184.107.41.70:993       24.71.234.171:49953     ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 209.172.40.142:443      114.119.136.85:35384    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:443       17.241.75.246:56704     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       54.186.67.155:60262     ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:443       77.88.5.220:52406       TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        194.87.151.73:63022     FIN_WAIT2   -                   
+tcp        0      0 184.107.41.70:443       193.235.141.19:60879    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:143       206.83.113.109:15832    ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 209.172.40.163:443      68.4.172.98:52974       ESTABLISHED 27973/litespeed (ls 
+tcp        0      0 127.0.0.1:54676         127.0.0.1:7080          TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       136.143.177.42:33596    ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       24.36.220.4:51678       ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:143       206.83.113.109:15793    ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 209.172.40.142:80       185.191.171.33:28248    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:143       201.203.117.225:17746   ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:80        34.136.77.191:50423     ESTABLISHED 27828/litespeed (ls 
+tcp        0      0 184.107.41.70:993       70.26.117.39:55512      ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 209.172.40.163:80       150.238.79.77:41574     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       35.163.94.178:53676     ESTABLISHED 13355/dovecot/imap- 
+tcp        0      0 184.107.41.70:993       76.66.162.212:55673     ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:443       162.158.87.172:52286    ESTABLISHED 27828/litespeed (ls 
+tcp        0      0 184.107.41.70:443       172.70.175.104:55182    ESTABLISHED 27949/litespeed (ls 
+tcp        0      0 184.107.41.70:443       64.124.8.53:15886       ESTABLISHED 27949/litespeed (ls 
+tcp        0      0 184.107.41.70:443       172.71.222.75:36912     ESTABLISHED 27720/litespeed (ls 
+tcp        0      0 184.107.41.70:993       64.229.199.188:50999    ESTABLISHED 13366/dovecot/imap- 
+tcp        0      0 184.107.41.70:443       172.70.174.20:54976     ESTABLISHED 27973/litespeed (ls 
+tcp        0      0 209.172.40.163:80       178.20.231.176:40560    TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:80        162.158.79.12:29556     ESTABLISHED 27720/litespeed (ls 
+tcp        0      0 127.0.0.1:40480         127.0.0.1:27217         ESTABLISHED 11741/php73         
+tcp        0      0 184.107.41.70:80        34.106.225.83:16269     TIME_WAIT   -                   
+tcp        0      0 184.107.41.70:993       72.143.212.214:36506    ESTABLISHED 13355/dovecot/imap- 
+tcp6       0      0 :::52224                :::*                    LISTEN      13192/im360: worker 
+tcp6       0      0 :::993                  :::*                    LISTEN      13355/dovecot/imap- 
+tcp6       0      0 :::5666                 :::*                    LISTEN      5154/xinetd         
+tcp6       0      0 :::10050                :::*                    LISTEN      31427/zabbix_agentd 
+tcp6       0      0 :::52227                :::*                    LISTEN      13192/im360: worker 
+tcp6       0      0 :::995                  :::*                    LISTEN      13354/dovecot/pop3- 
+tcp6       0      0 :::52228                :::*                    LISTEN      13192/im360: worker 
+tcp6       0      0 :::52229                :::*                    LISTEN      13192/im360: worker 
+tcp6       0      0 :::52230                :::*                    LISTEN      13192/im360: worker 
+tcp6       0      0 :::52231                :::*                    LISTEN      13192/im360: worker 
+tcp6       0      0 :::52232                :::*                    LISTEN      13192/im360: worker 
+tcp6       0      0 :::3306                 :::*                    LISTEN      34117/mariadbd      
+tcp6       0      0 :::587                  :::*                    LISTEN      3787/exim           
+tcp6       0      0 :::110                  :::*                    LISTEN      13354/dovecot/pop3- 
+tcp6       0      0 ::1:783                 :::*                    LISTEN      623/perl            
+tcp6       0      0 :::143                  :::*                    LISTEN      13355/dovecot/imap- 
+tcp6       0      0 :::111                  :::*                    LISTEN      1159/rpcbind        
+tcp6       0      0 :::80                   :::*                    LISTEN      19541/litespeed (ls 
+tcp6       0      0 :::465                  :::*                    LISTEN      3787/exim           
+tcp6       0      0 :::53                   :::*                    LISTEN      11248/pdns_server   
+tcp6       0      0 :::21                   :::*                    LISTEN      2373/pure-ftpd (SER 
+tcp6       0      0 :::22                   :::*                    LISTEN      27045/sshd          
+tcp6       0      0 :::25                   :::*                    LISTEN      3787/exim           
+tcp6       0      0 :::443                  :::*                    LISTEN      19541/litespeed (ls 
+tcp6       0      0 :::52223                :::*                    LISTEN      13192/im360: worker 
+tcp6       0      0 ::1:46250               ::1:143                 TIME_WAIT   -                   
+tcp6       0      0 209.172.40.172:3306     23.152.225.4:19720      TIME_WAIT   -                   
+tcp6       0      0 ::1:46330               ::1:143                 TIME_WAIT   -                   
+tcp6       0      0 209.172.40.172:3306     23.152.225.4:17389      TIME_WAIT   -                   
+tcp6       0      0 ::1:143                 ::1:46250               TIME_WAIT   -                   
+tcp6       0      0 ::1:143                 ::1:45856               TIME_WAIT   -                   
+tcp6       0      0 209.172.40.172:3306     23.152.225.4:20337      TIME_WAIT   -                   
+tcp6       0      0 209.172.40.172:3306     45.154.98.33:33808      TIME_WAIT   -                   
+tcp6       0      0 209.172.40.172:3306     23.152.225.4:13992      TIME_WAIT   -                   
+tcp6       0      0 209.172.40.172:3306     45.154.98.33:40602      TIME_WAIT   -                   
+tcp6       0      0 209.172.40.172:3306     23.152.225.4:15422      TIME_WAIT   -                   
+tcp6       0      0 209.172.40.172:3306     23.152.225.4:16012      TIME_WAIT   -                   
+tcp6       0      0 209.172.40.172:3306     23.152.225.4:14694      TIME_WAIT   -                   
+tcp6       0      0 ::1:143                 ::1:46344               TIME_WAIT   -                   
+tcp6       0      0 ::1:46322               ::1:143                 TIME_WAIT   -                   
+tcp6       0      0 209.172.40.172:3306     23.152.225.4:18740      TIME_WAIT   -                   
+tcp6       0      0 184.107.41.70:3306      208.113.133.182:39698   ESTABLISHED 34117/mariadbd      
+tcp6       0      0 209.172.40.172:3306     23.152.225.4:21011      TIME_WAIT   -                   
+tcp6       0      0 ::1:45856               ::1:143                 TIME_WAIT   -                   
+tcp6       0      0 ::1:143                 ::1:46322               TIME_WAIT   -                   
+tcp6       0      0 209.172.40.172:3306     45.154.98.33:40598      TIME_WAIT   -                   
+tcp6       0      0 209.172.40.172:3306     23.152.225.4:16645      TIME_WAIT   -                   
+tcp6       0      0 209.172.40.172:3306     23.152.225.4:18059      TIME_WAIT   -                   
